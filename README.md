@@ -1,3 +1,5 @@
+Name : Naresh Suthar | Reg. No. : 24BAI10260
+
 # Student Management System
 
 A simple command-line interface (CLI) application written in Java to manage student records effectively. This project allows users to perform basic CRUD (Create, Read, Update, Delete) operations on student data.
